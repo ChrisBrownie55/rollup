@@ -24,7 +24,7 @@ Now, install and use this package using `npm`, run this script:
   npm install -D @writ/rollup
 
   # use yarn  
-  yarn add @writ/rollup
+  yarn add --dev @writ/rollup
 ```
 
 ### [Usage](#usage)
